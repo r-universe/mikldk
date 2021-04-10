@@ -7,15 +7,19 @@
 	path = disclapmix
 	url = https://github.com/mikldk/disclapmix
 	shallow = true
+	registered = true
 [submodule "DNAtools"]
 	path = DNAtools
 	url = https://github.com/mikldk/dnatools
 	shallow = true
+	registered = true
 [submodule "malan"]
 	path = malan
 	url = https://github.com/mikldk/malan
 	shallow = true
+	registered = true
 [submodule "roxytest"]
 	path = roxytest
 	url = https://github.com/mikldk/roxytest
 	shallow = true
+	registered = true
