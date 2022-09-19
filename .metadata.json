@@ -1,5 +1,13 @@
 [
   {
+    "package": "disclapmix",
+    "oncran": true
+  },
+  {
+    "package": "DNAtools",
+    "oncran": true
+  },
+  {
     "package": "malan",
     "oncran": true
   },
