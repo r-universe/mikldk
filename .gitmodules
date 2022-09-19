@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "disclapmix"]
-	path = disclapmix
-	url = https://github.com/mikldk/disclapmix
-	shallow = true
-	registered = true
-[submodule "DNAtools"]
-	path = DNAtools
-	url = https://github.com/mikldk/dnatools
-	shallow = true
-	registered = true
 [submodule "malan"]
 	path = malan
 	url = https://github.com/mikldk/malan
