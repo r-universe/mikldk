@@ -18,8 +18,3 @@
 	url = https://github.com/mikldk/malan
 	shallow = true
 	registered = true
-[submodule "roxytest"]
-	path = roxytest
-	url = https://github.com/mikldk/roxytest
-	shallow = true
-	registered = true

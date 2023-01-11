@@ -10,9 +10,5 @@
   {
     "package": "malan",
     "oncran": true
-  },
-  {
-    "package": "roxytest",
-    "oncran": true
   }
 ]
