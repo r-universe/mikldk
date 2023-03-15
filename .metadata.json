@@ -1,9 +1,5 @@
 [
   {
-    "package": "disclapmix",
-    "oncran": true
-  },
-  {
     "package": "DNAtools",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "roxytest",
+    "oncran": true
+  },
+  {
+    "package": "disclapmix",
     "oncran": true
   }
 ]
