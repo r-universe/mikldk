@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "disclap"]
+	path = disclap
+	url = https://github.com/mikldk/disclap
+	shallow = true
+	registered = true
 [submodule "disclapmix"]
 	path = disclapmix
 	url = https://github.com/mikldk/disclapmix

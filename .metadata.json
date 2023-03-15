@@ -1,5 +1,9 @@
 [
   {
+    "package": "disclap",
+    "oncran": true
+  },
+  {
     "package": "disclapmix",
     "oncran": true
   },
