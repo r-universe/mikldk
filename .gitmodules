@@ -18,9 +18,19 @@
 	url = https://github.com/mikldk/dnatools
 	shallow = true
 	registered = true
+[submodule "fwsim"]
+	path = fwsim
+	url = https://github.com/cran/fwsim
+	shallow = true
+	registered = true
 [submodule "malan"]
 	path = malan
 	url = https://github.com/mikldk/malan
+	shallow = true
+	registered = true
+[submodule "rforensicbatwing"]
+	path = rforensicbatwing
+	url = https://github.com/cran/rforensicbatwing
 	shallow = true
 	registered = true
 [submodule "roxytest"]
