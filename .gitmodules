@@ -28,11 +28,6 @@
 	url = https://github.com/mikldk/malan
 	shallow = true
 	registered = true
-[submodule "rforensicbatwing"]
-	path = rforensicbatwing
-	url = https://github.com/cran/rforensicbatwing
-	shallow = true
-	registered = true
 [submodule "roxytest"]
 	path = roxytest
 	url = https://github.com/mikldk/roxytest
