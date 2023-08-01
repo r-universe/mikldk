@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DNAtools"]
+	path = DNAtools
+	url = https://github.com/mikldk/dnatools
 [submodule "disclap"]
 	path = disclap
 	url = https://github.com/mikldk/disclap
 [submodule "disclapmix"]
 	path = disclapmix
 	url = https://github.com/mikldk/disclapmix
-[submodule "DNAtools"]
-	path = DNAtools
-	url = https://github.com/mikldk/dnatools
 [submodule "fwsim"]
 	path = fwsim
 	url = https://github.com/cran/fwsim
