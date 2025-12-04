@@ -11,9 +11,6 @@
 [submodule "disclapmix"]
 	path = disclapmix
 	url = https://github.com/mikldk/disclapmix
-[submodule "fwsim"]
-	path = fwsim
-	url = https://github.com/cran/fwsim
 [submodule "malan"]
 	path = malan
 	url = https://github.com/mikldk/malan
